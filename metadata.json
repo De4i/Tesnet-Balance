@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Wallet Testnet Balance Checker",
+  "description": "GUI untuk cek balance multi-wallet secara simultan di 8 jaringan testnet: ETH GIWA, SepoliaETH, KRYVORA ETH, Litvm ETH, Base ETH, BNB Testnet, Arbitrum Sepolia, dan Avalanche Fuji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
